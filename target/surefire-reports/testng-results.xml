@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.crm.lead.CreateLeadwithvalidmandatorydetailsanddeletetheleadfromLeadsInformationpageTestng_TC57Test" duration-ms="27066" started-at="2022-04-12T11:49:57Z" finished-at="2022-04-12T11:50:24Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="27066" started-at="2022-04-12T11:49:57Z" finished-at="2022-04-12T11:50:24Z">
+      <class name="com.crm.lead.CreateLeadwithvalidmandatorydetailsanddeletetheleadfromLeadsInformationpageTestng_TC57Test">
+        <test-method status="PASS" signature="dataBaseConnection()[pri:0, instance:com.crm.lead.CreateLeadwithvalidmandatorydetailsanddeletetheleadfromLeadsInformationpageTestng_TC57Test@34b7bfc0]" name="dataBaseConnection" is-config="true" duration-ms="229" started-at="2022-04-12T11:49:57Z" finished-at="2022-04-12T11:49:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataBaseConnection -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.crm.lead.CreateLeadwithvalidmandatorydetailsanddeletetheleadfromLeadsInformationpageTestng_TC57Test@34b7bfc0]" name="openBrowser" is-config="true" duration-ms="4952" started-at="2022-04-12T11:49:57Z" finished-at="2022-04-12T11:50:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.crm.lead.CreateLeadwithvalidmandatorydetailsanddeletetheleadfromLeadsInformationpageTestng_TC57Test@34b7bfc0]" name="Login" is-config="true" duration-ms="6012" started-at="2022-04-12T11:50:02Z" finished-at="2022-04-12T11:50:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="createLeadwithvalidmandatorydetailsanddeletetheleadfromLeadsInformationpageTestng_TC57()[pri:0, instance:com.crm.lead.CreateLeadwithvalidmandatorydetailsanddeletetheleadfromLeadsInformationpageTestng_TC57Test@34b7bfc0]" name="createLeadwithvalidmandatorydetailsanddeletetheleadfromLeadsInformationpageTestng_TC57" duration-ms="13877" started-at="2022-04-12T11:50:08Z" finished-at="2022-04-12T11:50:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLeadwithvalidmandatorydetailsanddeletetheleadfromLeadsInformationpageTestng_TC57 -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:com.crm.lead.CreateLeadwithvalidmandatorydetailsanddeletetheleadfromLeadsInformationpageTestng_TC57Test@34b7bfc0]" name="Logout" is-config="true" duration-ms="2122" started-at="2022-04-12T11:50:22Z" finished-at="2022-04-12T11:50:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.crm.lead.CreateLeadwithvalidmandatorydetailsanddeletetheleadfromLeadsInformationpageTestng_TC57Test@34b7bfc0]" name="closeBrowser" is-config="true" duration-ms="78" started-at="2022-04-12T11:50:24Z" finished-at="2022-04-12T11:50:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="closeDataBase()[pri:0, instance:com.crm.lead.CreateLeadwithvalidmandatorydetailsanddeletetheleadfromLeadsInformationpageTestng_TC57Test@34b7bfc0]" name="closeDataBase" is-config="true" duration-ms="9" started-at="2022-04-12T11:50:24Z" finished-at="2022-04-12T11:50:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDataBase -->
+      </class> <!-- com.crm.lead.CreateLeadwithvalidmandatorydetailsanddeletetheleadfromLeadsInformationpageTestng_TC57Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.crm.lead.CreateLeadwithvalidmandatorydetailsanddeletetheleadfromLeadsInformationpageTestng_TC57Test -->
+</testng-results>

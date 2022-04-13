@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.crm.lead.CreateLeadwithvalidmandatorydetailsanddeletetheleadfromLeadsInformationpageTestng_TC57Test]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="com.crm.lead.CreateLeadwithvalidmandatorydetailsanddeletetheleadfromLeadsInformationpageTestng_TC57Test">
+        <methods>
+          <include name="Login"/>
+          <include name="closeDataBase"/>
+          <include name="createLeadwithvalidmandatorydetailsanddeletetheleadfromLeadsInformationpageTestng_TC57"/>
+          <include name="dataBaseConnection"/>
+          <include name="openBrowser"/>
+          <include name="Logout"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.crm.lead.CreateLeadwithvalidmandatorydetailsanddeletetheleadfromLeadsInformationpageTestng_TC57Test -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.crm.lead.CreateLeadwithvalidmandatorydetailsanddeletetheleadfromLeadsInformationpageTestng_TC57Test] -->

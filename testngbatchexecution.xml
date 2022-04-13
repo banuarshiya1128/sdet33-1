@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test" preserve-order="false">
+    <classes>
+      <class name="com.crm.practtice.PracticeTest2"/>
+      <class name="com.crm.practtice.PracticTest1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

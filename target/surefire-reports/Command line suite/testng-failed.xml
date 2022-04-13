@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="com.crm.lead.CreatNewLeadByGivingValidInputToEmailAndSecondaryEmailTestngT1_15_3Test">
+        <methods>
+          <include name="Login"/>
+          <include name="closeDataBase"/>
+          <include name="dataBaseConnection"/>
+          <include name="openBrowser"/>
+          <include name="creatNewLeadByGivingValidInputToEmailAndSecondaryEmailTestngT1_15_3"/>
+          <include name="Logout"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.crm.lead.CreatNewLeadByGivingValidInputToEmailAndSecondaryEmailTestngT1_15_3Test -->
+      <class name="com.crm.lead.CreateLeadwithvalidmandatorydetailsanddeletetheleadfromLeadsInformationpageTestng_TC57Test">
+        <methods>
+          <include name="Login"/>
+          <include name="closeDataBase"/>
+          <include name="createLeadwithvalidmandatorydetailsanddeletetheleadfromLeadsInformationpageTestng_TC57"/>
+          <include name="dataBaseConnection"/>
+          <include name="openBrowser"/>
+          <include name="Logout"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.crm.lead.CreateLeadwithvalidmandatorydetailsanddeletetheleadfromLeadsInformationpageTestng_TC57Test -->
+      <class name="com.crm.organization.CreateOrganizationWithAssignedToMarketingGroup_TC11Test">
+        <methods>
+          <include name="Login"/>
+          <include name="closeDataBase"/>
+          <include name="createOrganizationWithAssignedToMarketingGroup_TC11"/>
+          <include name="dataBaseConnection"/>
+          <include name="openBrowser"/>
+          <include name="Logout"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.crm.organization.CreateOrganizationWithAssignedToMarketingGroup_TC11Test -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
